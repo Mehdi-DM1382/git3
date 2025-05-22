@@ -1,0 +1,7 @@
+ali
+<<<<<<< HEAD
+hassan
+=======
+mmd
+>>>>>>> master
+ahmad
